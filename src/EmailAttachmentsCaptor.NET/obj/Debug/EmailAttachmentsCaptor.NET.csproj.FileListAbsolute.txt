@@ -1,0 +1,8 @@
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\bin\Debug\EmailAttachmentsCaptor.NET.dll
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\bin\Debug\EmailAttachmentsCaptor.NET.pdb
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\bin\Debug\OpenPop.dll
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\obj\Debug\EmailAttachmentsCaptor.NET.csproj.AssemblyReference.cache
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\obj\Debug\EmailAttachmentsCaptor.NET.csproj.CoreCompileInputs.cache
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\obj\Debug\EmailAttachmentsCaptor.NET.csproj.CopyComplete
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\obj\Debug\EmailAttachmentsCaptor.NET.dll
+C:\Users\leona\Source\Repos\EmailAttachmentCaptor.NET\src\EmailAttachmentsCaptor.NET\obj\Debug\EmailAttachmentsCaptor.NET.pdb
