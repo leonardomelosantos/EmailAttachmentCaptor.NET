@@ -19,7 +19,6 @@ namespace EmailAttachmentCaptor.NET
             using (Pop3Client client = new Pop3Client())
             {
                 ConnectToEmailServer(settings, client);
-
                 ProcessInboxEmails(attachmentsResult, client, settings);
             }
             return attachmentsResult;
@@ -34,7 +33,6 @@ namespace EmailAttachmentCaptor.NET
         private static void ProcessInboxEmails(List<MessagePart> attachmentsResult, Pop3Client client, EmailAttachmentCaptorSettings settings)
         {
             List<string> allowedExtensions = settings.GetAllowedExtensions();
-
             List<string> emailsUids = client.GetMessageUids(); // Fetch all the current uids seen
             for (int i = 0; i < emailsUids.Count; i++)
             {
